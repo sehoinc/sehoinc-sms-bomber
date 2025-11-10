@@ -9,4 +9,5 @@ Contact: [instagram.com/sehid.gur](https://instagram.com/sehid.gur)
 
 ```console
 🇹🇷 ONLY FOR TURKİSH NUMBERS 🇹🇷
+              +90    
 ```
